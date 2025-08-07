@@ -22,7 +22,7 @@ Easily deployable on Hugging Face Spaces
 ## 📌 Links
 Type	Link
 🔗 Hugging Face	Live Demo on Hugging Face Spaces [https://huggingface.co/spaces/ZiadAbdelrahim/face-mask-project]
-🖥️ Presentation	Project Slides
+🖥️ Presentation	Project Slides [https://drive.google.com/drive/folders/1vs9GbuD72TNixq3IiX3hJXvTDC9RDBv8?usp=sharing]
 
 ## 🧠 Model Details
 Input features:  Images containing human faces
